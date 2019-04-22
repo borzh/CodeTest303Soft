@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  CodeTest
+
+  Created by Boris Godin on 4/21/19.
+  Copyright © 2019 Boris Godin. All rights reserved.
+*/
+"Info" = "Information";
+"Error" = "Error";
+
+"DownloadingJson" = "Downloading JSON...\nPull down to refresh...";
+"ErrorDownload" = "Unknown error while downloading JSON.";
+"ErrorJson" = "Error decoding JSON.";
